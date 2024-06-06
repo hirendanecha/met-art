@@ -88,7 +88,7 @@ export function app(): express.Express {
           description:
             'Live Girls! Talk One-on-One Face-to-Face',
           image:
-            'https://www.metart.tube/assets/images/landingpage/profile.png',
+            'https://www.metart.tube/assets/images/cover.png',
           site: 'https://www.metart.tube/',
           url: 'https://www.metart.tube' + params,
           keywords: 'MetArt.tube',
@@ -160,7 +160,7 @@ export function app(): express.Express {
               post?.thumbfilename ||
               post?.metaimage ||
               post?.imageUrl ||
-              'https://www.metart.tube/assets/images/landingpage/Pussy-Ventures-Square-Logo.png',
+              'https://www.metart.tube/assets/images/cover.png',
           };
           seo.title = talent.name;
           seo.description = strip_html_tags(talent.description);
