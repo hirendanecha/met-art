@@ -1,6 +1,6 @@
 const url = 'https://api.metart.tube';
 const webUrl = 'https://metart.tube/';
-const tubeUrl = 'https://tube.metart.tube/';
+const tubeUrl = 'https://video.metart.tube/';
 
 // const url = 'http://localhost:8080';
 // const webUrl = 'http://localhost:4200/';
